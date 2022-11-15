@@ -3,4 +3,4 @@ const fruits = [
   "🍏", "🍐", "🍒", "🍓", "🥝", "🍅", "🥑",
 ];
 
-export {fruits};
+export default fruits;

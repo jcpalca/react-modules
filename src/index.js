@@ -1,5 +1,5 @@
 import {choice, remove} from './helpers';
-import {fruits} from './foods'
+import fruits from './foods'
 
 
 const chosenFruit = choice(fruits);
